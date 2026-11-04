@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04 20:22:38 GMT+8",
+ "generated_at": "2026-11-04 21:08:28 GMT+8",
  "scope_note": "宽度为成交额Top800口径；流动性为全市场口径",
  "warnings": [],
  "indices": [
@@ -103,9 +103,9 @@
    "name": "美元指数",
    "group": "欧美",
    "code": "UDI",
-   "price": 101.31,
-   "pct": -0.54,
-   "change": -0.55
+   "price": 101.26,
+   "pct": -0.59,
+   "change": -0.6
   }
  ],
  "breadth": {
@@ -751,5 +751,5 @@
    "cls": "stale"
   }
  },
- "elapsed": 143.0
+ "elapsed": 147.0
 }
